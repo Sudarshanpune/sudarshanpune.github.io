@@ -1,3 +1,1 @@
-# sudarshanpune.github.io
-
-Personal Site: https://sudarshanpune.github.io/
+My Portfolio: https://sudarshanpune.github.io/
